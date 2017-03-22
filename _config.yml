@@ -14,7 +14,7 @@ resume_name:                    "Violetta Vylegzhanina"
 resume_title:                   "Software Engineer"
 resume_contact_email:
   "violetta.vylegzhanina3@gmail.com"
-#resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+#resume_header_contact_info: ""
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,12 +36,12 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/Vylegzv"
-  #resume_twitter_url:           "http://twitter.com/jglovier"
-  #resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
+  #resume_twitter_url:           "insert twitter URL"
+  #resume_dribbble_url:          "insert dribble URL"
+  # resume_facebook_url:         "insert Facebook URL"
   resume_linkedin_url:          "https://www.linkedin.com/in/violettavylegzhanina/"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  #resume_website_url:           "https://drive.google.com/file/d/0B6w3AssOMc4ScUE5YlR0cTVGQTA/view?usp=sharing"
+  # resume_instagram_url:        "insert Instagram URL"
+  #resume_website_url:           "insert website URL"
   resume_resume_pdf:             "/docs/violetta_vylegzhanina_cv.pdf"
 resume_print_social_links:      true
 
